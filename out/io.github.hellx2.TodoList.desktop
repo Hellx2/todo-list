@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Todo List
+GenericName=Todo List
+Comment=A simple Todo list app
+Exec=todo-list
+Terminal=false
+Type=Application
+Categories=GTK;Utility;

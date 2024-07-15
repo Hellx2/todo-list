@@ -1,0 +1,29 @@
+.scrollable {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #181818;
+    color: white;
+    margin: 20px;
+}
+
+.btns_box {
+    margin-top: 20px;
+}
+
+.entry {
+    margin: 20px;
+}
+
+.todo_list {
+    background-color: #181818;
+    color: white;
+}
+
+.quit_button {
+    margin: 20px;
+}
+
+.todo_list_item checkbutton:checked + label {
+    text-decoration: line-through;
+    color: #7f7f7f;
+}
